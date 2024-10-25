@@ -40,8 +40,6 @@ body {
   flex-direction: row;
   display: flex;
 }
-.menu {
-}
 .menu__items {
   justify-content: space-between;
   align-items: center;
@@ -58,12 +56,6 @@ body {
 }
 .item a {
   color: #0f0f0f;
-}
-.item__template {
-}
-.item__features {
-}
-.item__pricing {
 }
 .item__resource {
   border-right: none;
